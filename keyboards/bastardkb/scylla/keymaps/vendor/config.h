@@ -1,0 +1,2 @@
+#define VIAL_TAP_DANCE_ENTRIES 8
+#define TAPPING_TERM 175
